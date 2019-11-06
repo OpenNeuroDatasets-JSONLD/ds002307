@@ -1,4 +1,5 @@
-{   "BIDSVersion": "1.0.1",
+{
+    "BIDSVersion": "1.0.1",
     "Name": "individual_dMRI_fMRI",
     "Authors": [
         "Eyal Bergmann",
@@ -6,5 +7,7 @@
     ],
     "Funding": [
         ""
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002307.v1.0.0",
+    "License": "CC0"
 }
