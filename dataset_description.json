@@ -1,6 +1,6 @@
 {
     "BIDSVersion": "1.0.1",
-    "Name": "individual_dMRI_fMRI",
+    "Name": "individual_mouse_dMRI_fMRI",
     "Authors": [
         "Eyal Bergmann",
         "Itamar Kahn"
