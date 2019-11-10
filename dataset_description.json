@@ -6,7 +6,8 @@
         "Itamar Kahn"
     ],
     "Funding": [
-        ""
+        "",
+        "This work was supported by the Israel Science Foundation (770/17; to I.K.)"
     ],
     "DatasetDOI": "10.18112/openneuro.ds002307.v2.0.0",
     "License": "CC0",
