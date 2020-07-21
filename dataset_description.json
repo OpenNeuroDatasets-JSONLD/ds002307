@@ -6,7 +6,8 @@
         "Itamar Kahn"
     ],
     "Funding": [
-        ""
+        "",
+        "This research was supported by Israel Science Foundation (770/17), the Ministry of Science & Technology, Israel & Ministry of Europe and Foreign Affairs (MEAE) and the Ministry of Higher Education, Research and Innovation (MESRI) of France, the Adelis Foundation, and the Prince Center."
     ],
     "HowToAcknowledge": "Please cite the paper: Melozzi, F., Bergmann, E., Harris, J. A., Kahn, I., Jirsa, V., & Bernard, C. (2019). Individual structural features constrain the mouse functional connectome. Proceedings of the National Academy of Sciences, 116(52), 26961-26969.",
     "License": "CC0",
